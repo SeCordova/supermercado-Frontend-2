@@ -30,7 +30,3 @@ Para probar la versión de producción se usa `npm run build` y luego `npm run p
 
 React, React Router, Tailwind CSS y Vite.
 
-
-## Información
-
-Los productos iniciales son ejemplos. No se utiliza servidor ni base de datos: los cambios se guardan en el navegador. Si se borran los datos del sitio también se pierde el inventario guardado.
